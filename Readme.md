@@ -49,9 +49,6 @@ Contributions are welcome! Please feel free to open an issue or submit a pull re
 - Instagram : [https://www.instagram.com/deniz.halil333/](https://www.instagram.com/deniz.halil333/)
 - YouTube: [https://www.youtube.com/c/HalilDeniz](https://www.youtube.com/c/HalilDeniz)
 - Personal Website: [https://denizhalil.com/](https://denizhalil.com/)
-- Instagram (Production Brain): [https://www.instagram.com/production.brain/](https://www.instagram.com/production.brain/)
-- YouTube (Production Brain): [https://www.youtube.com/@ProductionBrain1](https://www.youtube.com/@ProductionBrain1)
-- Discord (Production Brain): [https://discord.gg/nGBpfMHX4u](https://discord.gg/nGBpfMHX4u)
 - **Additional Resources**:
   - [Machine Learning in Network Security: Preventing Cyber Attacks](https://denizhalil.com/2024/02/24/machine-learning/)
   - [Machine Learning in Cybersecurity: An Artificial Neural](https://denizhalil.com/2024/02/19/machine-learning-cybersecurity-neural-network/)
